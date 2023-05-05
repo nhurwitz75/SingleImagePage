@@ -1,0 +1,9 @@
+body {
+    align-content: center;
+    text-align: center;
+    background-image: lineargradient(gray, lightgray);
+}
+img {
+    max-height: 300px;
+    max-width: 400px;
+}
